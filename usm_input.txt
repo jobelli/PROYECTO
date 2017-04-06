@@ -1,0 +1,16 @@
+epoch_in 51726
+object_in 1
+rev_num_in 1
+step_size_in_days .5
+number_of_steps 1460
+semimajor_axis_km 42163.393
+inclination_deg 63.435
+ra_asc_node_deg 285.0
+eccentricity .2684
+arg_perigee_deg 270.0
+mean_anomaly_deg 344.0
+ballistic_coef 0
+pock -2
+pzadachi 0
+output_type 2
+prmodel 0
